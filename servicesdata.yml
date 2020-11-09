@@ -1,1 +1,6 @@
-
+spring:
+  datasource:
+    driver-class-name1: com.mysql.cj.jdbc.Driver
+    url1: jdbc:mysql://databasetutorial.cboovblx3rhf.us-east-2.rds.amazonaws.com:3306/databasetutorial?serverTimezone=UTC
+    username1: root
+    password1: S4nt11s4c123
